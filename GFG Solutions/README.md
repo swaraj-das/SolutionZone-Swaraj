@@ -17,4 +17,4 @@ Welcome to the **GFG Solutions** folder! 🎉 Here, you’ll find solutions to v
     <img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T916A1PA6199PT17X7Y0D171734978W33394H40073/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/programmer-joke-mens-premium-tank-top.jpg" alt="Image 4" style="width: 40%; height: auto;">
 </div>
 
-Happy Coding! 😄
+<h3 align="center">Happy Coding! 😄</h3>
