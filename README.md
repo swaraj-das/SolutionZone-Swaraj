@@ -22,6 +22,14 @@ Welcome to **Swaraj's Solution Zone**! This repository is your one-stop destinat
 <p align="center">
   <img src="https://media.tenor.com/85UPsXUYxp4AAAAM/working-late-working-hard.gif" alt="Coding Fun" width="400"/>
 </p>
+<b><p align="center"> 
+
+1. Solved the daily problem challenge on LeetCode. 
+2. Solved the daily problem challenge on GeeksforGeeks.
+3. Participated in LeetCode's weekly contest and solved 2 questions.
+4. Participated in GeeksforGeeks' weekly contest and solved 2 questions.
+
+</p></b>  
 
 ---
 
