@@ -3,7 +3,7 @@
 > "A Zone of problem-solving brilliance!" 🎮
 
 ## ✨ About the Repository 
-Welcome to **Swaraj's Solution Zone**! This repository is your one-stop destination for all the coding solutions I’ve crafted while tackling challenges on platforms like **GeeksforGeeks (GFG)** and **LeetCode**. Whether you're looking for DSA mastery or creative problem-solving, you'll find it all here.
+Welcome to **SolutionZone-Swaraj**! This repository is your one-stop destination for all the coding solutions I’ve crafted while tackling challenges on platforms like **GeeksforGeeks (GFG)** and **LeetCode**. Whether you're looking for DSA mastery or creative problem-solving, you'll find it all here.
 
 ## 🔧 Repository Features
 - ✔️ **Well-Organized Solutions**: Separate folders for **GFG** and **LeetCode**.
