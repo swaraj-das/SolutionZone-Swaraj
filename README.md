@@ -24,7 +24,7 @@ Welcome to **Swaraj's Solution Zone**! This repository is your one-stop destinat
 </p>
 <b><p align="center"> 
 
-1. [Solved the daily problem challenge on LeetCode.](./Leetcode%20Solutions/Daily%20Solutions/#23.12.2024%20=%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level.py)
+1. [Solved the daily problem challenge on LeetCode.](./Leetcode%20Solutions/Daily%20Solutions/-23.12.2024%20=%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level.py)
 2. [Solved the daily problem challenge on GeeksforGeeks.](./GFG%20Solutions/Daily%20Solutions/23.12.2024%20=%20Search%20in%20a%20row-wise%20sorted%20matrix.cpp)
 
 </p></b>  
