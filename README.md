@@ -1,4 +1,4 @@
-# 🌐 Welcome to **Swaraj's Solution Zone** 🌐
+# 🌐 Welcome to **SolutionZone-Swaraj** 🌐
 
 > "A Zone of problem-solving brilliance!" 🎮
 
