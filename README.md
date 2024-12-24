@@ -24,8 +24,8 @@ Welcome to **SolutionZone-Swaraj**! This repository is your one-stop destination
 </p>
 <b><p align="center"> 
 
-1. [Solved the daily problem challenge on LeetCode.](./Leetcode%20Solutions/Daily%20Solutions/-23.12.2024%20=%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level.py)
-2. [Solved the daily problem challenge on GeeksforGeeks.](./GFG%20Solutions/Daily%20Solutions/23.12.2024%20=%20Search%20in%20a%20row-wise%20sorted%20matrix.cpp)
+1. [Solved the daily problem challenge on LeetCode.](./Leetcode%20Solutions/Daily%20Solutions/-24.12.2024%20=%203203.%20Find%20Minimum%20Diameter%20After%20Merging%20Two%20Trees.cpp)
+2. [Solved the daily problem challenge on GeeksforGeeks.](./GFG%20Solutions/Daily%20Solutions/24.12.2024%20=%20Search%20in%20a%20sorted%20Matrix.py)
 
 </p></b>  
 
